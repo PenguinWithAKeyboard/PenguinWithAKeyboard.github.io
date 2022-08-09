@@ -1,7 +1,20 @@
-body {width:100%}
+body {
+    background-image: url("Images/Background.png");
+    font-family: 'Courier New', monospace;
+  }
 
 h1 {
+    margin: 3% 17%;
+}
 
-    margin: 1% 45%;
-    font-family: 'Press Start 2P', cursive;
+p1 {
+    color: white;
+    font-weight: bold;
+    position: relative;
+    top: 330px;
+    left: 610px;
+}
+
+#Heart {
+    margin: 0% 33%;
 }
